@@ -15,6 +15,7 @@ This repository records my solutions to bioinformatics problems from [Rosalind](
 ## 🛠️ Tools Used
 - Python 3
 - Jupyter Notebook
+- Biopython
 
 ---
 *Created by EricaXu-Bio*
