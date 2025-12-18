@@ -11,6 +11,9 @@ This repository records my solutions to bioinformatics problems from [Rosalind](
   1.  DNA: Counting DNA Nucleotides
   2.  RNA: Transcribing DNA into RNA
   3.  REVC: Complementing a Strand of DNA
+    * 004_FIB_Rabbits_Recurrence.ipynb:
+    * **Topic:** Dynamic Programming / Population Dynamics
+    * **Algorithm:** Iterative approach (replacing recursion) to calculate Fibonacci sequence variations.
 
 ## 🛠️ Tools Used
 - Python 3
