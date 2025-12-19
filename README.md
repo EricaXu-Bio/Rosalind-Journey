@@ -15,6 +15,9 @@ This repository records my solutions to bioinformatics problems from [Rosalind](
 - **004_FIB_Rabbits_Recurrence.ipynb**:
   - **Topic:** Dynamic Programming / Population Dynamics
   - **Algorithm:** Iterative approach (replacing recursion) to calculate Fibonacci sequence variations.
+- **005_Computing_GC_Content.ipynb**:
+    - **Topic:** String Algorithms / File Parsing (FASTA)
+    - **Algorithm:** Implemented "State Machine" logic for manual parsing vs. Biopython `SeqIO` for industrial standard.
 
 ## 🛠️ Tools Used
 - Python 3
